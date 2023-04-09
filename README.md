@@ -1,5 +1,5 @@
-# VS Code for .NET developers
-Documentation for using Visual Studio Code with .NET programming languages
+# VS Code for C# developers
+Documentation for C# programming with Visual Studio Code
 
 ## .NET CLI Commands
 
